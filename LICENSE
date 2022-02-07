@@ -1,10 +1,4 @@
-# Stream Sticker Animation using Rive
-
-Sample Flutter project to demonstrate how to use **Rive** animation assets as stickers for your Chat app built using **Stream**.
-
-![](images/stream_anim.gif)
-
-## License
+MIT License
 
 Copyright (c) 2022 Souvik Biswas
 
